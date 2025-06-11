@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-base.MyAnimeList",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Data"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://myanimelist.net/apiconfig/references/authorization"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://myanimelist.net/apiconfig/references/api/v2#operation/anime_get_user_animelist"
+			}
+		]
+	}
+}
